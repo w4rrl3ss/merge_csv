@@ -1,6 +1,6 @@
 # Merge CSV - By Bankai
 
-![Merge CSV Logo](https://raw.githubusercontent.com/w4rrl3ss/merge_csv/refs/heads/main/csv.png)
+![Merge CSV Logo](https://raw.githubusercontent.com/w4rrl3ss/merge_csv/refs/heads/main/csv.ico)
 
 A powerful desktop application for merging CSV files from multiple folders with advanced processing options and a sleek dark theme interface.
 
